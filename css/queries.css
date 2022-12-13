@@ -1,0 +1,50 @@
+/***BREAKPOINT 1400px***/
+
+@media (max-width: 1400px) {
+  .card {
+    width: 350px;
+  }
+}
+/***BREAKPOINT 1199px***/
+
+@media (max-width: 1199px) {
+  .card {
+    width: 300px;
+  }
+
+  .btn-danger {
+    width: 120px;
+  }
+}
+/***BREAKPOINT 991px***/
+
+@media (max-width: 991px) {
+  .card {
+    width: 210px;
+  }
+
+  .card img {
+    height: 250px;
+    width: 199px;
+    /*width: vh;*/
+  }
+
+  .card-title {
+    font-size: 18px;
+  }
+}
+/***BREAKPOINT 767px***/
+
+@media (max-width: 767px) {
+  h1 {
+    text-align: center;
+  }
+
+  .card {
+    height: 350px;
+    width: 270px;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

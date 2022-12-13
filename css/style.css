@@ -1,0 +1,20 @@
+.cart-items {
+  margin-bottom: 15px;
+}
+
+.card-items {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.card img {
+  height: 250px;
+  width: 200px;
+  /*width: vh;*/
+}
+
+.card {
+  align-items: center;
+  height: 350px;
+  width: 410px;
+}
